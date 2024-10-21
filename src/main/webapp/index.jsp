@@ -1,7 +1,7 @@
 <html>
 <head>
 	<p> THIS IS THE DEPLOYEMENT CODE</P>
-	<h1>Hi THIS is My FIRST DEPLOYEMENT</h1>
+	<h1>HELLO THIS is My FIRST DEPLOYEMENT</h1>
 </head>
 <body>
 	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
