@@ -11,7 +11,7 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h2 style="color: blue; font-size: 22px;" align="center">APPLICATION SUCCESSFULLY DEPLOYED</h2>	
 	
-	<h1>code ready</h1>
+	<h1>FInally deployed</h1>
 	
 	
 	
